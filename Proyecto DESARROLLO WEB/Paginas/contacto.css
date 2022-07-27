@@ -1,0 +1,39 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    font-family: Century Gothic;
+}
+body
+{
+    background-color: #ededed;
+}
+form
+{
+    width: 700px;
+    margin: auto;
+    background-color: #8bf;
+    margin-top: 100px;
+}
+input
+{
+    margin: 12px;
+    padding: 8px;
+    width: 660px;   
+    font-size: 18px;
+    border: none;
+    margin-bottom: 5px;
+}
+textarea
+{
+    margin: 12px;
+    padding: 8px;
+    width: 660px;   
+    font-size: 18px;   
+    min-width: 660px;
+    max-width: 660px;
+    min-height: 100px;
+    max-height: 200px;
+    border: none;
+
+}
